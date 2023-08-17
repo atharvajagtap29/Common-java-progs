@@ -26,4 +26,4 @@ public class SumArrayElements{
   public static void main(String[] args){
     Sum();
   }
-}
+}  
